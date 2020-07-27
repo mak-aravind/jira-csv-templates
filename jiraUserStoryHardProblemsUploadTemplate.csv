@@ -1,133 +1,265 @@
 Epic Name, Parent Id, Issue Id, Issue Type, Summary, Assignee
-Algo Expert,,H1," ""Story""",Four Number Sum," ""nayak83@gmail.com"""
-Algo Expert,,H2," ""Story""",Subarray Sort," ""nayak83@gmail.com"""
-Algo Expert,,H3," ""Story""",Largest Range," ""nayak83@gmail.com"""
-Algo Expert,,H4," ""Story""",Min Rewards," ""nayak83@gmail.com"""
-Algo Expert,,H5," ""Story""",Zigzag Traverse," ""nayak83@gmail.com"""
-Algo Expert,,H6," ""Story""",Same BSTs," ""nayak83@gmail.com"""
-Algo Expert,,H7," ""Story""",Max Path Sum In Binary Tree," ""nayak83@gmail.com"""
-Algo Expert,,H8," ""Story""",Max Sum Increasing Subsequence," ""nayak83@gmail.com"""
-Algo Expert,,H9," ""Story""",Longest Common Subsequence," ""nayak83@gmail.com"""
-Algo Expert,,H10," ""Story""",Min Number Of Jumps," ""nayak83@gmail.com"""
-Algo Expert,,H11," ""Story""",Water Area," ""nayak83@gmail.com"""
-Algo Expert,,H12," ""Story""",Knapsack Problem," ""nayak83@gmail.com"""
-Algo Expert,,H13," ""Story""",Disk Stacking," ""nayak83@gmail.com"""
-Algo Expert,,H14," ""Story""",Numbers In Pi," ""nayak83@gmail.com"""
-Algo Expert,,H15," ""Story""",Topological Sort," ""nayak83@gmail.com"""
-Algo Expert,,H16," ""Story""",Boggle Board," ""nayak83@gmail.com"""
-Algo Expert,,H17," ""Story""",Continuous Median," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,,H18," ""Story""",Find Loop," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,,H19," ""Story""",Reverse Linked List," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,,H20," ""Story""",Merge Linked Lists," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,,H21," ""Story""",Shift Linked List," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,,H22," ""Story""",Lowest Common Manager," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,,H23," ""Story""",Interweaving Strings," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,,H24," ""Story""",Shifted Binary Search," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,,H25," ""Story""",Search For Range," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,,H26," ""Story""",Quickselect," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,,H27," ""Story""",Quick Sort," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,,H28," ""Story""",Heap Sort," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,,H29," ""Story""",Shorten Path," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,,H30," ""Story""",Longest Substring Without Duplication," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,,H31," ""Story""",Underscorify Substring," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,,H32," ""Story""",Pattern Matcher," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,,H33," ""Story""",Multi String Search," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H1,," ""Sub-Task"""," ""Understand the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H2,," ""Sub-Task"""," ""Understand the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H3,," ""Sub-Task"""," ""Understand the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H4,," ""Sub-Task"""," ""Understand the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H5,," ""Sub-Task"""," ""Understand the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H6,," ""Sub-Task"""," ""Understand the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H7,," ""Sub-Task"""," ""Understand the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H8,," ""Sub-Task"""," ""Understand the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H9,," ""Sub-Task"""," ""Understand the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H10,," ""Sub-Task"""," ""Understand the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H11,," ""Sub-Task"""," ""Understand the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H12,," ""Sub-Task"""," ""Understand the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H13,," ""Sub-Task"""," ""Understand the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H14,," ""Sub-Task"""," ""Understand the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H15,," ""Sub-Task"""," ""Understand the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H16,," ""Sub-Task"""," ""Understand the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H17,," ""Sub-Task"""," ""Understand the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H18,," ""Sub-Task"""," ""Understand the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H19,," ""Sub-Task"""," ""Understand the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H20,," ""Sub-Task"""," ""Understand the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H21,," ""Sub-Task"""," ""Understand the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H22,," ""Sub-Task"""," ""Understand the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H23,," ""Sub-Task"""," ""Understand the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H24,," ""Sub-Task"""," ""Understand the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H25,," ""Sub-Task"""," ""Understand the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H26,," ""Sub-Task"""," ""Understand the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H27,," ""Sub-Task"""," ""Understand the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H28,," ""Sub-Task"""," ""Understand the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H29,," ""Sub-Task"""," ""Understand the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H30,," ""Sub-Task"""," ""Understand the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H31,," ""Sub-Task"""," ""Understand the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H32,," ""Sub-Task"""," ""Understand the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H33,," ""Sub-Task"""," ""Understand the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H1,," ""Sub-Task"""," ""Solve the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H2,," ""Sub-Task"""," ""Solve the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H3,," ""Sub-Task"""," ""Solve the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H4,," ""Sub-Task"""," ""Solve the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H5,," ""Sub-Task"""," ""Solve the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H6,," ""Sub-Task"""," ""Solve the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H7,," ""Sub-Task"""," ""Solve the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H8,," ""Sub-Task"""," ""Solve the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H9,," ""Sub-Task"""," ""Solve the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H10,," ""Sub-Task"""," ""Solve the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H11,," ""Sub-Task"""," ""Solve the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H12,," ""Sub-Task"""," ""Solve the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H13,," ""Sub-Task"""," ""Solve the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H14,," ""Sub-Task"""," ""Solve the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H15,," ""Sub-Task"""," ""Solve the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H16,," ""Sub-Task"""," ""Solve the Problem"""," ""nayak83@gmail.com"""
-Algo Expert,H17,," ""Sub-Task"""," ""Solve the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H18,," ""Sub-Task"""," ""Solve the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H19,," ""Sub-Task"""," ""Solve the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H20,," ""Sub-Task"""," ""Solve the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H21,," ""Sub-Task"""," ""Solve the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H22,," ""Sub-Task"""," ""Solve the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H23,," ""Sub-Task"""," ""Solve the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H24,," ""Sub-Task"""," ""Solve the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H25,," ""Sub-Task"""," ""Solve the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H26,," ""Sub-Task"""," ""Solve the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H27,," ""Sub-Task"""," ""Solve the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H28,," ""Sub-Task"""," ""Solve the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H29,," ""Sub-Task"""," ""Solve the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H30,," ""Sub-Task"""," ""Solve the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H31,," ""Sub-Task"""," ""Solve the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H32,," ""Sub-Task"""," ""Solve the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H33,," ""Sub-Task"""," ""Solve the Problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H1,," ""Sub-Task"""," ""Discuss about the problem"""," ""nayak83@gmail.com"""
-Algo Expert,H2,," ""Sub-Task"""," ""Discuss about the problem"""," ""nayak83@gmail.com"""
-Algo Expert,H3,," ""Sub-Task"""," ""Discuss about the problem"""," ""nayak83@gmail.com"""
-Algo Expert,H4,," ""Sub-Task"""," ""Discuss about the problem"""," ""nayak83@gmail.com"""
-Algo Expert,H5,," ""Sub-Task"""," ""Discuss about the problem"""," ""nayak83@gmail.com"""
-Algo Expert,H6,," ""Sub-Task"""," ""Discuss about the problem"""," ""nayak83@gmail.com"""
-Algo Expert,H7,," ""Sub-Task"""," ""Discuss about the problem"""," ""nayak83@gmail.com"""
-Algo Expert,H8,," ""Sub-Task"""," ""Discuss about the problem"""," ""nayak83@gmail.com"""
-Algo Expert,H9,," ""Sub-Task"""," ""Discuss about the problem"""," ""nayak83@gmail.com"""
-Algo Expert,H10,," ""Sub-Task"""," ""Discuss about the problem"""," ""nayak83@gmail.com"""
-Algo Expert,H11,," ""Sub-Task"""," ""Discuss about the problem"""," ""nayak83@gmail.com"""
-Algo Expert,H12,," ""Sub-Task"""," ""Discuss about the problem"""," ""nayak83@gmail.com"""
-Algo Expert,H13,," ""Sub-Task"""," ""Discuss about the problem"""," ""nayak83@gmail.com"""
-Algo Expert,H14,," ""Sub-Task"""," ""Discuss about the problem"""," ""nayak83@gmail.com"""
-Algo Expert,H15,," ""Sub-Task"""," ""Discuss about the problem"""," ""nayak83@gmail.com"""
-Algo Expert,H16,," ""Sub-Task"""," ""Discuss about the problem"""," ""nayak83@gmail.com"""
-Algo Expert,H17,," ""Sub-Task"""," ""Discuss about the problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H18,," ""Sub-Task"""," ""Discuss about the problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H19,," ""Sub-Task"""," ""Discuss about the problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H20,," ""Sub-Task"""," ""Discuss about the problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H21,," ""Sub-Task"""," ""Discuss about the problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H22,," ""Sub-Task"""," ""Discuss about the problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H23,," ""Sub-Task"""," ""Discuss about the problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H24,," ""Sub-Task"""," ""Discuss about the problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H25,," ""Sub-Task"""," ""Discuss about the problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H26,," ""Sub-Task"""," ""Discuss about the problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H27,," ""Sub-Task"""," ""Discuss about the problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H28,," ""Sub-Task"""," ""Discuss about the problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H29,," ""Sub-Task"""," ""Discuss about the problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H30,," ""Sub-Task"""," ""Discuss about the problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H31,," ""Sub-Task"""," ""Discuss about the problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H32,," ""Sub-Task"""," ""Discuss about the problem"""," ""aravind.murugaiyan@gmail.com"""
-Algo Expert,H33,," ""Sub-Task"""," ""Discuss about the problem"""," ""aravind.murugaiyan@gmail.com"""
+Algo Expert,,Story-RH1  ,Story,HardLevel-Four Number Sum                          ,nayak83@gmail.com
+Algo Expert,,Story-RH2  ,Story,HardLevel-Subarray Sort                            ,nayak83@gmail.com
+Algo Expert,,Story-RH3  ,Story,HardLevel-Largest Range                            ,nayak83@gmail.com
+Algo Expert,,Story-RH4  ,Story,HardLevel-Min Rewards                              ,nayak83@gmail.com
+Algo Expert,,Story-RH5  ,Story,HardLevel-Zigzag Traverse                          ,nayak83@gmail.com
+Algo Expert,,Story-RH6  ,Story,HardLevel-Same BSTs                                ,nayak83@gmail.com
+Algo Expert,,Story-RH7  ,Story,HardLevel-Max Path Sum In Binary Tree              ,nayak83@gmail.com
+Algo Expert,,Story-RH8  ,Story,HardLevel-Max Sum Increasing Subsequence           ,nayak83@gmail.com
+Algo Expert,,Story-RH9  ,Story,HardLevel-Longest Common Subsequence               ,nayak83@gmail.com
+Algo Expert,,Story-RH10 ,Story,HardLevel-Min Number Of Jumps                      ,nayak83@gmail.com
+Algo Expert,,Story-RH11 ,Story,HardLevel-Water Area                               ,nayak83@gmail.com
+Algo Expert,,Story-RH12 ,Story,HardLevel-Knapsack Problem                         ,nayak83@gmail.com
+Algo Expert,,Story-RH13 ,Story,HardLevel-Disk Stacking                            ,nayak83@gmail.com
+Algo Expert,,Story-RH14 ,Story,HardLevel-Numbers In Pi                            ,nayak83@gmail.com
+Algo Expert,,Story-RH15 ,Story,HardLevel-Topological Sort                         ,nayak83@gmail.com
+Algo Expert,,Story-RH16 ,Story,HardLevel-Boggle Board                             ,nayak83@gmail.com
+Algo Expert,,Story-RH17 ,Story,HardLevel-Continuous Median                        ,nayak83@gmail.com
+Algo Expert,,Story-RH18 ,Story,HardLevel-Find Loop                                ,nayak83@gmail.com
+Algo Expert,,Story-RH19 ,Story,HardLevel-Reverse Linked List                      ,nayak83@gmail.com
+Algo Expert,,Story-RH20 ,Story,HardLevel-Merge Linked Lists                       ,nayak83@gmail.com
+Algo Expert,,Story-RH21 ,Story,HardLevel-Shift Linked List                        ,nayak83@gmail.com
+Algo Expert,,Story-RH22 ,Story,HardLevel-Lowest Common Manager                    ,nayak83@gmail.com
+Algo Expert,,Story-RH23 ,Story,HardLevel-Interweaving Strings                     ,nayak83@gmail.com
+Algo Expert,,Story-RH24 ,Story,HardLevel-Shifted Binary Search                    ,nayak83@gmail.com
+Algo Expert,,Story-RH25 ,Story,HardLevel-Search For Range                         ,nayak83@gmail.com
+Algo Expert,,Story-RH26 ,Story,HardLevel-Quickselect                              ,nayak83@gmail.com
+Algo Expert,,Story-RH27 ,Story,HardLevel-Quick Sort                               ,nayak83@gmail.com
+Algo Expert,,Story-RH28 ,Story,HardLevel-Heap Sort                                ,nayak83@gmail.com
+Algo Expert,,Story-RH29 ,Story,HardLevel-Shorten Path                             ,nayak83@gmail.com
+Algo Expert,,Story-RH30 ,Story,HardLevel-Longest Substring Without Duplication    ,nayak83@gmail.com
+Algo Expert,,Story-RH31 ,Story,HardLevel-Underscorify Substring                   ,nayak83@gmail.com
+Algo Expert,,Story-RH32 ,Story,HardLevel-Pattern Matcher                          ,nayak83@gmail.com
+Algo Expert,,Story-RH33 ,Story,HardLevel-Multi String Search                      ,nayak83@gmail.com
+Algo Expert,,Story-AH1  ,Story,HardLevel-Four Number Sum                          ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH2  ,Story,HardLevel-Subarray Sort                            ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH3  ,Story,HardLevel-Largest Range                            ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH4  ,Story,HardLevel-Min Rewards                              ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH5  ,Story,HardLevel-Zigzag Traverse                          ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH6  ,Story,HardLevel-Same BSTs                                ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH7  ,Story,HardLevel-Max Path Sum In Binary Tree              ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH8  ,Story,HardLevel-Max Sum Increasing Subsequence           ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH9  ,Story,HardLevel-Longest Common Subsequence               ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH10 ,Story,HardLevel-Min Number Of Jumps                      ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH11 ,Story,HardLevel-Water Area                               ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH12 ,Story,HardLevel-Knapsack Problem                         ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH13 ,Story,HardLevel-Disk Stacking                            ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH14 ,Story,HardLevel-Numbers In Pi                            ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH15 ,Story,HardLevel-Topological Sort                         ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH16 ,Story,HardLevel-Boggle Board                             ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH17 ,Story,HardLevel-Continuous Median                        ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH18 ,Story,HardLevel-Find Loop                                ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH19 ,Story,HardLevel-Reverse Linked List                      ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH20 ,Story,HardLevel-Merge Linked Lists                       ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH21 ,Story,HardLevel-Shift Linked List                        ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH22 ,Story,HardLevel-Lowest Common Manager                    ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH23 ,Story,HardLevel-Interweaving Strings                     ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH24 ,Story,HardLevel-Shifted Binary Search                    ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH25 ,Story,HardLevel-Search For Range                         ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH26 ,Story,HardLevel-Quickselect                              ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH27 ,Story,HardLevel-Quick Sort                               ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH28 ,Story,HardLevel-Heap Sort                                ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH29 ,Story,HardLevel-Shorten Path                             ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH30 ,Story,HardLevel-Longest Substring Without Duplication    ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH31 ,Story,HardLevel-Underscorify Substring                   ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH32 ,Story,HardLevel-Pattern Matcher                          ,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AH33 ,Story,HardLevel-Multi String Search                      ,aravind.murugaiyan@gmail.com
+Algo Expert,Story-RH1  ,R-U-Task-RT1,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH2  ,R-U-Task-RT2,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH3  ,R-U-Task-RT3,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH4  ,R-U-Task-RT4,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH5  ,R-U-Task-RT5,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH6  ,R-U-Task-RT6,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH7  ,R-U-Task-RT7,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH8  ,R-U-Task-RT8,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH9  ,R-U-Task-RT9,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH10 ,R-U-Task-RT10,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH11 ,R-U-Task-RT11,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH12 ,R-U-Task-RT12,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH13 ,R-U-Task-RT13,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH14 ,R-U-Task-RT14,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH15 ,R-U-Task-RT15,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH16 ,R-U-Task-RT16,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH17 ,R-U-Task-RT17,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH18 ,R-U-Task-RT18,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH19 ,R-U-Task-RT19,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH20 ,R-U-Task-RT20,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH21 ,R-U-Task-RT21,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH22 ,R-U-Task-RT22,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH23 ,R-U-Task-RT23,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH24 ,R-U-Task-RT24,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH25 ,R-U-Task-RT25,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH26 ,R-U-Task-RT26,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH27 ,R-U-Task-RT27,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH28 ,R-U-Task-RT28,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH29 ,R-U-Task-RT29,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH30 ,R-U-Task-RT30,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH31 ,R-U-Task-RT31,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH32 ,R-U-Task-RT32,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH33 ,R-U-Task-RT33,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RH1  ,R-S-Task-RT1,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH2  ,R-S-Task-RT2,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH3  ,R-S-Task-RT3,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH4  ,R-S-Task-RT4,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH5  ,R-S-Task-RT5,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH6  ,R-S-Task-RT6,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH7  ,R-S-Task-RT7,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH8  ,R-S-Task-RT8,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH9  ,R-S-Task-RT9,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH10 ,R-S-Task-RT10,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH11 ,R-S-Task-RT11,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH12 ,R-S-Task-RT12,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH13 ,R-S-Task-RT13,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH14 ,R-S-Task-RT14,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH15 ,R-S-Task-RT15,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH16 ,R-S-Task-RT16,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH17 ,R-S-Task-RT17,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH18 ,R-S-Task-RT18,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH19 ,R-S-Task-RT19,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH20 ,R-S-Task-RT20,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH21 ,R-S-Task-RT21,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH22 ,R-S-Task-RT22,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH23 ,R-S-Task-RT23,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH24 ,R-S-Task-RT24,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH25 ,R-S-Task-RT25,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH26 ,R-S-Task-RT26,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH27 ,R-S-Task-RT27,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH28 ,R-S-Task-RT28,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH29 ,R-S-Task-RT29,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH30 ,R-S-Task-RT30,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH31 ,R-S-Task-RT31,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH32 ,R-U-Task-RT32,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH33 ,R-U-Task-RT33,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH1  ,R-D-TASK-RT1,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH2  ,R-D-TASK-RT2,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH3  ,R-D-TASK-RT3,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH4  ,R-D-TASK-RT4,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH5  ,R-D-TASK-RT5,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH6  ,R-D-TASK-RT6,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH7  ,R-D-TASK-RT7,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH8  ,R-D-TASK-RT8,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH9  ,R-D-TASK-RT9,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH10 ,R-D-TASK-RT10,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH11 ,R-D-TASK-RT11,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH12 ,R-D-TASK-RT12,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH13 ,R-D-TASK-RT13,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH14 ,R-D-TASK-RT14,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH15 ,R-D-TASK-RT15,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH16 ,R-D-TASK-RT16,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH17 ,R-D-TASK-RT17,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH18 ,R-D-TASK-RT18,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH19 ,R-D-TASK-RT19,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH20 ,R-D-TASK-RT20,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH21 ,R-D-TASK-RT21,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH22 ,R-D-TASK-RT22,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH23 ,R-D-TASK-RT23,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH24 ,R-D-TASK-RT24,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH25 ,R-D-TASK-RT25,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH26 ,R-D-TASK-RT26,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH27 ,R-D-TASK-RT27,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH28 ,R-D-TASK-RT28,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH29 ,R-D-TASK-RT29,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH30 ,R-D-TASK-RT30,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH31 ,R-D-TASK-RT31,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RH32 ,R-U-Task-RT32,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RH33 ,R-U-Task-RT33,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-AH1  ,A-U-Task-RT1,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH2  ,A-U-Task-RT2,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH3  ,A-U-Task-RT3,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH4  ,A-U-Task-RT4,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH5  ,A-U-Task-RT5,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH6  ,A-U-Task-RT6,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH7  ,A-U-Task-RT7,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH8  ,A-U-Task-RT8,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH9  ,A-U-Task-RT9,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH10 ,A-U-Task-RT10,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH11 ,A-U-Task-RT11,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH12 ,A-U-Task-RT12,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH13 ,A-U-Task-RT13,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH14 ,A-U-Task-RT14,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH15 ,A-U-Task-RT15,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH16 ,A-U-Task-RT16,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH17 ,A-U-Task-RT17,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH18 ,A-U-Task-RT18,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH19 ,A-U-Task-RT19,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH20 ,A-U-Task-RT20,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH21 ,A-U-Task-RT21,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH22 ,A-U-Task-RT22,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH23 ,A-U-Task-RT23,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH24 ,A-U-Task-RT24,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH25 ,A-U-Task-RT25,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH26 ,A-U-Task-RT26,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH27 ,A-U-Task-RT27,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH28 ,A-U-Task-RT28,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH29 ,A-U-Task-RT29,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH30 ,A-U-Task-RT30,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH31 ,A-U-Task-RT31,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH32 ,A-U-Task-RT32,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH33 ,A-U-Task-RT33,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH1  ,A-S-Task-RT1,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH2  ,A-S-Task-RT2,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH3  ,A-S-Task-RT3,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH4  ,A-S-Task-RT4,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH5  ,A-S-Task-RT5,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH6  ,A-S-Task-RT6,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH7  ,A-S-Task-RT7,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH8  ,A-S-Task-RT8,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH9  ,A-S-Task-RT9,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH10 ,A-S-Task-RT10,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH11 ,A-S-Task-RT11,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH12 ,A-S-Task-RT12,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH13 ,A-S-Task-RT13,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH14 ,A-S-Task-RT14,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH15 ,A-S-Task-RT15,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH16 ,A-S-Task-RT16,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH17 ,A-S-Task-RT17,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH18 ,A-S-Task-RT18,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH19 ,A-S-Task-RT19,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH20 ,A-S-Task-RT20,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH21 ,A-S-Task-RT21,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH22 ,A-S-Task-RT22,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH23 ,A-S-Task-RT23,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH24 ,A-S-Task-RT24,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH25 ,A-S-Task-RT25,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH26 ,A-S-Task-RT26,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH27 ,A-S-Task-RT27,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH28 ,A-S-Task-RT28,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH29 ,A-S-Task-RT29,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH30 ,A-S-Task-RT30,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH31 ,A-S-Task-RT31,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH32 ,A-U-Task-RT32,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH33 ,A-U-Task-RT33,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH1  ,A-D-TASK-RT1,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH2  ,A-D-TASK-RT2,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH3  ,A-D-TASK-RT3,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH4  ,A-D-TASK-RT4,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH5  ,A-D-TASK-RT5,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH6  ,A-D-TASK-RT6,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH7  ,A-D-TASK-RT7,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH8  ,A-D-TASK-RT8,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH9  ,A-D-TASK-RT9,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH10 ,A-D-TASK-RT10,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH11 ,A-D-TASK-RT11,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH12 ,A-D-TASK-RT12,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH13 ,A-D-TASK-RT13,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH14 ,A-D-TASK-RT14,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH15 ,A-D-TASK-RT15,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH16 ,A-D-TASK-RT16,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH17 ,A-D-TASK-RT17,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH18 ,A-D-TASK-RT18,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH19 ,A-D-TASK-RT19,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH20 ,A-D-TASK-RT20,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH21 ,A-D-TASK-RT21,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH22 ,A-D-TASK-RT22,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH23 ,A-D-TASK-RT23,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH24 ,A-D-TASK-RT24,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH25 ,A-D-TASK-RT25,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH26 ,A-D-TASK-RT26,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH27 ,A-D-TASK-RT27,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH28 ,A-D-TASK-RT28,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH29 ,A-D-TASK-RT29,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH30 ,A-D-TASK-RT30,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH31 ,A-D-TASK-RT31,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH32 ,A-U-Task-RT32,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AH33 ,A-U-Task-RT33,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com

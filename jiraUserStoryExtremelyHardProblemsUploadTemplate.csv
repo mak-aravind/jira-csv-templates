@@ -1,0 +1,33 @@
+Epic Name, Parent Id, Issue Id, Issue Type, Summary, Assignee
+Algo Expert,,Story-RXH1  ,Story,ExtremelyHard-Right Smaller Than,nayak83@gmail.com
+Algo Expert,,Story-RXH2  ,Story,ExtremelyHard-Longest Increasing Subsequence,nayak83@gmail.com
+Algo Expert,,Story-RXH3  ,Story,ExtremelyHard-Square of Zeroes,nayak83@gmail.com
+Algo Expert,,Story-RXH4  ,Story,ExtremelyHard-Airport Connections,nayak83@gmail.com
+Algo Expert,,Story-AXH1  ,Story,ExtremelyHard-Right Smaller Than,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AXH2  ,Story,ExtremelyHard-Longest Increasing Subsequence,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AXH3  ,Story,ExtremelyHard-Square of Zeroes,aravind.murugaiyan@gmail.com
+Algo Expert,,Story-AXH4  ,Story,ExtremelyHard-Airport Connections,aravind.murugaiyan@gmail.com
+Algo Expert,Story-RXH1  ,R-U-Task-RT1,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RXH2  ,R-U-Task-RT2,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RXH3  ,R-U-Task-RT3,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RXH4  ,R-U-Task-RT4,Sub-Task,Understand the Problem,nayak83@gmail.com
+Algo Expert,Story-RXH1  ,R-S-Task-RT1,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RXH2  ,R-S-Task-RT2,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RXH3  ,R-S-Task-RT3,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RXH4  ,R-S-Task-RT4,Sub-Task,Solve the Problem,nayak83@gmail.com
+Algo Expert,Story-RXH1  ,R-D-TASK-RT1,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RXH2  ,R-D-TASK-RT2,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RXH3  ,R-D-TASK-RT3,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-RXH4  ,R-D-TASK-RT4,Sub-Task,Discuss about the problem,nayak83@gmail.com
+Algo Expert,Story-AXH1  ,A-U-Task-RT1,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AXH2  ,A-U-Task-RT2,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AXH3  ,A-U-Task-RT3,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AXH4  ,A-U-Task-RT4,Sub-Task,Understand the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AXH1  ,A-S-Task-RT1,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AXH2  ,A-S-Task-RT2,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AXH3  ,A-S-Task-RT3,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AXH4  ,A-S-Task-RT4,Sub-Task,Solve the Problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AXH1  ,A-D-TASK-RT1,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AXH2  ,A-D-TASK-RT2,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AXH3  ,A-D-TASK-RT3,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
+Algo Expert,Story-AXH4  ,A-D-TASK-RT4,Sub-Task,Discuss about the problem,aravind.murugaiyan@gmail.com
